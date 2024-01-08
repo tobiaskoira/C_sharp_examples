@@ -1,0 +1,14 @@
+C:\repos\C_sharp_examples\Changing_style_of_string\bin\Debug\net6.0\Changing_style_of_string.exe
+C:\repos\C_sharp_examples\Changing_style_of_string\bin\Debug\net6.0\Changing_style_of_string.deps.json
+C:\repos\C_sharp_examples\Changing_style_of_string\bin\Debug\net6.0\Changing_style_of_string.runtimeconfig.json
+C:\repos\C_sharp_examples\Changing_style_of_string\bin\Debug\net6.0\Changing_style_of_string.dll
+C:\repos\C_sharp_examples\Changing_style_of_string\bin\Debug\net6.0\Changing_style_of_string.pdb
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.AssemblyInfoInputs.cache
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.AssemblyInfo.cs
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.csproj.CoreCompileInputs.cache
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.dll
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\refint\Changing_style_of_string.dll
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.pdb
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\Changing_style_of_string.genruntimeconfig.cache
+C:\repos\C_sharp_examples\Changing_style_of_string\obj\Debug\net6.0\ref\Changing_style_of_string.dll

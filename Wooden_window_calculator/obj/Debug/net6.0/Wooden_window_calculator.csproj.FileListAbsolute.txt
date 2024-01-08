@@ -1,0 +1,14 @@
+C:\repos\C_sharp_examples\Wooden_window_calculator\bin\Debug\net6.0\Wooden_window_calculator.exe
+C:\repos\C_sharp_examples\Wooden_window_calculator\bin\Debug\net6.0\Wooden_window_calculator.deps.json
+C:\repos\C_sharp_examples\Wooden_window_calculator\bin\Debug\net6.0\Wooden_window_calculator.runtimeconfig.json
+C:\repos\C_sharp_examples\Wooden_window_calculator\bin\Debug\net6.0\Wooden_window_calculator.dll
+C:\repos\C_sharp_examples\Wooden_window_calculator\bin\Debug\net6.0\Wooden_window_calculator.pdb
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.AssemblyInfoInputs.cache
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.AssemblyInfo.cs
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.csproj.CoreCompileInputs.cache
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.dll
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\refint\Wooden_window_calculator.dll
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.pdb
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\Wooden_window_calculator.genruntimeconfig.cache
+C:\repos\C_sharp_examples\Wooden_window_calculator\obj\Debug\net6.0\ref\Wooden_window_calculator.dll

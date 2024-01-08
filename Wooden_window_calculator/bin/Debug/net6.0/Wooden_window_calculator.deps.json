@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wooden_window_calculator/1.0.0": {
+        "runtime": {
+          "Wooden_window_calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wooden_window_calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

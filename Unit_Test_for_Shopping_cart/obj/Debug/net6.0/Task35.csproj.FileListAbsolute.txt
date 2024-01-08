@@ -1,0 +1,14 @@
+C:\repos\object_oriented_programming\Task31_40\Task35\bin\Debug\net6.0\Task35.exe
+C:\repos\object_oriented_programming\Task31_40\Task35\bin\Debug\net6.0\Task35.deps.json
+C:\repos\object_oriented_programming\Task31_40\Task35\bin\Debug\net6.0\Task35.runtimeconfig.json
+C:\repos\object_oriented_programming\Task31_40\Task35\bin\Debug\net6.0\Task35.dll
+C:\repos\object_oriented_programming\Task31_40\Task35\bin\Debug\net6.0\Task35.pdb
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.AssemblyInfoInputs.cache
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.AssemblyInfo.cs
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.csproj.CoreCompileInputs.cache
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.dll
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\refint\Task35.dll
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.pdb
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\Task35.genruntimeconfig.cache
+C:\repos\object_oriented_programming\Task31_40\Task35\obj\Debug\net6.0\ref\Task35.dll

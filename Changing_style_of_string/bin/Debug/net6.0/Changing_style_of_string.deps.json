@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Changing_style_of_string/1.0.0": {
+        "runtime": {
+          "Changing_style_of_string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Changing_style_of_string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
